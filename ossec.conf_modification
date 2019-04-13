@@ -1,4 +1,5 @@
-Add the following to you ossec.conf file, located at "C:\Program Files (x86)\ossec-agent>" to include the Sysmon logs in the Wazuh/OSSEC scope.
+Add the following to you ossec.conf file, located at "C:\Program Files (x86)\ossec-agent>" to include the Sysmon logs in the 
+Wazuh/OSSEC scope. Obtained from https://www.ibm.com/support/knowledgecenter/en/SSKMKU/com.ibm.extensions.doc/r_sysmon_setup.html
 
 ### Add the following
 
