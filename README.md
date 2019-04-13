@@ -7,7 +7,7 @@ This serves as a repository of links, configuration files, and procedures relate
 
 * [Security Onion Sysmon Page](https://securityonion.readthedocs.io/en/latest/sysmon.html)
 
-* [Archived version of the SwiftOnSecurity Sysmon Configuration File](https://github.com/0xSeanG/sysmon-config)
+* [Archived version of the SwiftOnSecurity Sysmon Configuration File](https://github.com/0xSeanG/sysmon-config/blob/master/sysmonconfig-export.xml)
 
 * [Wazuh Agent Download](https://documentation.wazuh.com/3.7/installation-guide/packages-list/index.html)
 
