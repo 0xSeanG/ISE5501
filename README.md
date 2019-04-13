@@ -3,7 +3,7 @@ This serves as a repository of links, configuration files, and procedures relate
 
 * [Required Modification to ossec.conf on hosts](https://github.com/0xSeanG/ISE5501/blob/master/ossec.conf_modification)
 
-* [Mawalre Archeology Windows Logging Cheat Sheet]()(Archived Version). To ensure you review the most recent version, please visit [https://www.malwarearchaeology.com/cheat-sheets]
+* [Malware Archeology Windows Logging Cheat Sheet](https://github.com/0xSeanG/ISE5501/blob/master/Windows%2BLogging%2BCheat%2BSheet_ver_Feb_2019.pdf)(Archived Version). To ensure you review the most recent version, please visit [https://www.malwarearchaeology.com/cheat-sheets]
 
 * [Malware Archeology Logging Cheat Sheet mapped to MITRE ATT&CK](https://github.com/0xSeanG/ISE5501/blob/master/Windows%2BATT%26CK_Logging%2BCheat%2BSheet_ver_Sept_2018.pdf)(Archived Version). To ensure you review the most recent version, please visit [https://www.malwarearchaeology.com/cheat-sheets](https://www.malwarearchaeology.com/cheat-sheets)
 
